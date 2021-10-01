@@ -1,10 +1,8 @@
-<h2 align="center">Laving kimdir? <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
-
-`-` Ben Mert;
+<h2 align="center">Laving <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
 `-` Publicciler hariç insanları severim.
 
-`-` Public sunucumda var istersen gel. [Valdora](https://discord.gg/ghy9syqwZ8)
+`-` Canım sıkılınca bot yapıyom.
 
 <h1 align="center">Discord İletişim <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
