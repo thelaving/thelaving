@@ -6,7 +6,7 @@
 
 <h1 align="center">Discord İletişim <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
-* Discord: Laving#0001
+* Discord: Laving.#1939
 * Discord ID: 708001787872936039
 
 <h2 align="center">🍒 GitHub Stats: <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
