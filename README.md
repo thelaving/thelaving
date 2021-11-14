@@ -1,13 +1,16 @@
 <h2 align="center">Laving <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
-`-` Publicciler hariç insanları severim.
+`-` **Merhabalar ben mert her hafta bazen her gün bot paylaşmaya çalışıyorum. Sizde bi star'ı veya fork'u çok görmeyip destek olursanız mutlu olurum. Şimdiden Teşekkürler!**
 
-`-` Canım sıkılınca bot yapıyom.
+https://discord.gg/visa
 
-<h1 align="center">Discord İletişim <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
+https://instagram.com/z_laving
 
-* Discord: Laving.#1939
-* Discord ID: 708001787872936039
+https://instagram.com/fx_monarch
+
+https://github.com/thelaving
+
+`>` Laving Salvatore.#0001
 
 <h2 align="center">🍒 GitHub Stats: <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 <p align="left">
