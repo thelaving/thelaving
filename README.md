@@ -10,7 +10,7 @@ https://instagram.com/fx_monarch
 
 https://github.com/thelaving
 
-`>` Laving Salvatore.#0001
+`>` Laving#0001
 
 <h2 align="center">🍒 GitHub Stats: <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 <p align="left">
