@@ -2,13 +2,9 @@
 
 `-` **Merhabalar ben mert her hafta bazen her gün bot paylaşmaya çalışıyorum. Sizde bi star'ı veya fork'u çok görmeyip destek olursanız mutlu olurum. Şimdiden Teşekkürler!**
 
-https://discord.gg/visa
+Discord Adresim Ve Sunucularım;
 
-https://instagram.com/z_laving
-
-https://instagram.com/fx_monarch
-
-https://github.com/thelaving
+.gg/thevaleria/visa/sante
 
 `>` Laving#0001
 
