@@ -4,7 +4,12 @@
 
 Discord Adresim Ve Sunucularım;
 
-.gg/thevaleria/visa/sante
+https://discord.gg/knaves
+https://discord.gg/emperor
+https://discord.gg/thevaleria
+https://discord.gg/1981
+https://discord.gg/cash
+https://discord.gg/1881
 
 `>` Laving#0001
 
