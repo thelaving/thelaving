@@ -1,10 +1,5 @@
  Hello world, this is Laving
- 
-<h2 align="center">🍒 GitHub Stats: <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
-<p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=thelaving&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%100" height="180px" alt="stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelaving&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" />
-   
+
 ![version :17.10.2021](https://img.shields.io/badge/version-17.10.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=thelaving&color=red)&nbsp;
 [![GitHub JaylenOzi](https://img.shields.io/github/followers/thelaving?label=follow&style=social)](https://github.com/JaylenOzi)&nbsp;
