@@ -1,61 +1,34 @@
-<!--
-  Profil README • thelaving
-  İpucu: Aşağıdaki linklerdeki "thelaving" kullanıcı adını değiştirmen gerekmez :)
--->
-
 <div align="center">
 
-# theLaving
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Selam!+Ben+Thelaving;Kod+Yazmay%C4%B1+Severim;Projelerime+G%C3%B6z+At!" alt="Typing SVG" />
 
-Küçük detayları önemseyen, temiz ve sürdürülebilir kod yazmaya odaklanan geliştirici.  
-Açık kaynak, üretken otomasyonlar ve öğrenmeyi kolaylaştıran mini projeler.
+  <p>👋 Merhaba, ben bir geliştiriciyim. Açık kaynak dünyasını ve yeni şeyler öğrenmeyi seviyorum.</p>
 
-<br/>
+  <br>
 
-<a href="https://github.com/thelaving">
-  <img src="https://komarev.com/ghpvc/?username=thelaving&style=flat-square&color=0ea5e9" alt="profile views" />
-</a>
-<a href="https://github.com/thelaving?tab=followers">
-  <img src="https://img.shields.io/github/followers/thelaving?style=flat-square&label=Followers&color=111827" alt="followers" />
-</a>
-<a href="https://github.com/thelaving?tab=repositories">
-  <img src="https://img.shields.io/badge/Repos-Explore-22c55e?style=flat-square" alt="repos" />
-</a>
+  <!-- YETENEKLER BÖLÜMÜ (Burayı kendi bildiğin dillerle değiştirebilirsin) -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-<br/><br/>
+  <br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="tools" />
+  <!-- İSTATİSTİKLER -->
+  <a href="https://github.com/thelaving">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thelaving&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelaving&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
 
-</div>
+  <br><br>
 
----
-
-## Kısa not
-- Ürettiğim şeylerin odağı: **basitlik + hız + okunabilirlik**
-- İlgimi çekenler: **araçlar, otomasyon, mini uygulamalar, refactor**
-- Burada: düzenli olarak **denemeler / küçük projeler / notlar**
-
-## Öne çıkanlar
-> Burayı istersen pinlediğin repolarla uyumlu olacak şekilde güncelle.
-
-- 🔹 **[Proje 1](https://github.com/thelaving?tab=repositories)** — Kısa açıklama (1 satır)
-- 🔹 **[Proje 2](https://github.com/thelaving?tab=repositories)** — Kısa açıklama (1 satır)
-- 🔹 **[Proje 3](https://github.com/thelaving?tab=repositories)** — Kısa açıklama (1 satır)
-
-## İstatistikler
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=thelaving&show_icons=true&hide_title=true&count_private=true&theme=transparent" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelaving&layout=compact&theme=transparent" />
-
-</div>
-
----
-
-<div align="center">
-
-### İletişim
-Bir şey üretmek, iyileştirmek ya da fikir paylaşmak istersen:  
-**GitHub üzerinden issue/PR** her zaman açık.
+  <!-- SOSYAL MEDYA (Linkleri kendine göre düzenle) -->
+  <a href="mailto:email@adresin.com">
+    <img src="https://img.shields.io/badge/Bana_Ulaş-000?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/kullaniciadin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
 </div>
