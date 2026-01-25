@@ -23,8 +23,6 @@
 - 📫 Bana ulaşmak için: **lavingiletisim@gmail.com**
 
 <br>
----
-
 <!-- YETENEKLER BÖLÜMÜ (Skill Icons - Çok şık durur) -->
 <div align="center">
   <h3>🛠️ Teknoloji & Araçlar</h3>
