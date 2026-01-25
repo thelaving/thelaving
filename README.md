@@ -34,7 +34,7 @@
   
   <p><b>Backend & Veritabanı</b></p>
   <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,py,java,mysql,mongodb," />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,java,mysql,mongodb" />
   </p>
 
   <p><b>Araçlar & Editörler</b></p>
