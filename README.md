@@ -22,9 +22,9 @@
 - ⚡ Eğlenceli gerçek: **Kod yazarken kahve tüketimim %200 artıyor! ☕**
 - 📫 Bana ulaşmak için: **lavingiletisim@gmail.com**
 
-<br>
-<!-- YETENEKLER BÖLÜMÜ (Skill Icons - Çok şık durur) -->
 ---
+
+<br>
 
 <div align="center">
   <h3>🛠️ Teknoloji & Araçlar</h3>
