@@ -23,9 +23,7 @@
 - 📫 Bana ulaşmak için: **lavingiletisim@gmail.com**
 
 ---
-
 <br>
-
 <div align="center">
   <h3>🛠️ Teknoloji & Araçlar</h3>
   
