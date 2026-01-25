@@ -6,15 +6,6 @@
 <!-- DAKTİLO EFEKTİ VE GİRİŞ -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Merhaba!+Ben+Thelaving;Web+Geliştirme;Açık+Kaynak+Meraklısı;Sürekli+%C3%96ğrenen+Biri" alt="Typing SVG" />
-  
-  <br>
-
-  <a href="https://github.com/thelaving">
-    <img src="https://img.shields.io/github/followers/thelaving?label=Takipçiler&style=social" />
-  </a>
-  <a href="https://github.com/thelaving">
-    <img src="https://img.shields.io/github/stars/thelaving?label=Yıldızlar&style=social" />
-  </a>
 </div>
 
 <br>
@@ -29,18 +20,9 @@
 - 👯 İşbirliği yapmaya ve **Açık Kaynak** projelere katkıda bulunmaya açığım.
 - 💬 Bana **Yazılım, Teknoloji veya Oyunlar** hakkında her şeyi sorabilirsin.
 - ⚡ Eğlenceli gerçek: **Kod yazarken kahve tüketimim %200 artıyor! ☕**
-- 📫 Bana ulaşmak için: **mailadresin@gmail.com**
+- 📫 Bana ulaşmak için: **lavingiletisim@gmail.com**
 
 <br>
-
-<!-- GITHUB KUPALARI (Trophies) -->
-<div align="center">
-  <h3>🏆 Başarımlar</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=thelaving&theme=juicyfresh&no-frame=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
-<br>
-
 ---
 
 <!-- YETENEKLER BÖLÜMÜ (Skill Icons - Çok şık durur) -->
@@ -76,9 +58,6 @@
   </div>
   
   <br>
-
-  <!-- Alt satır: Streak (Seri) Grafiği -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thelaving&theme=tokyonight&hide_border=true&background=00000000" alt="thelaving" />
 </div>
 
 <br>
@@ -86,14 +65,7 @@
 <!-- ALT BİLGİ / FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-  
-  <a href="https://linkedin.com/in/kullaniciadin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/kullaniciadin">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:seninmailin@gmail.com">
+  <a href="mailto:lavingiletisim@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
