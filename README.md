@@ -34,12 +34,12 @@
   
   <p><b>Backend & Veritabanı</b></p>
   <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,py,java,mysql,mongodb,firebase,postgres" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,java,mysql,mongodb," />
   </p>
 
   <p><b>Araçlar & Editörler</b></p>
   <p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
   </p>
 </div>
 
