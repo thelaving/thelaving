@@ -1,19 +1,61 @@
- Hello world, this is Laving
+<!--
+  Profil README • thelaving
+  İpucu: Aşağıdaki linklerdeki "thelaving" kullanıcı adını değiştirmen gerekmez :)
+-->
 
-![version :17.10.2021](https://img.shields.io/badge/version-17.10.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=thelaving&color=red)&nbsp;
-[![GitHub JaylenOzi](https://img.shields.io/github/followers/thelaving?label=follow&style=social)](https://github.com/JaylenOzi)&nbsp;
-<a href="https://instagram.com/z_laving"><img src="https://img.shields.io/badge/@z_laving-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<div align="center">
 
-## Langauges I Know:
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+# theLaving
 
+Küçük detayları önemseyen, temiz ve sürdürülebilir kod yazmaya odaklanan geliştirici.  
+Açık kaynak, üretken otomasyonlar ve öğrenmeyi kolaylaştıran mini projeler.
 
-<h3 align="left">:bar_chart: GitHub Stats:</h3>
-<p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=thelaving&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=thelaving&theme=radical" />
-</p>
+<br/>
+
+<a href="https://github.com/thelaving">
+  <img src="https://komarev.com/ghpvc/?username=thelaving&style=flat-square&color=0ea5e9" alt="profile views" />
+</a>
+<a href="https://github.com/thelaving?tab=followers">
+  <img src="https://img.shields.io/github/followers/thelaving?style=flat-square&label=Followers&color=111827" alt="followers" />
+</a>
+<a href="https://github.com/thelaving?tab=repositories">
+  <img src="https://img.shields.io/badge/Repos-Explore-22c55e?style=flat-square" alt="repos" />
+</a>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="tools" />
+
+</div>
+
+---
+
+## Kısa not
+- Ürettiğim şeylerin odağı: **basitlik + hız + okunabilirlik**
+- İlgimi çekenler: **araçlar, otomasyon, mini uygulamalar, refactor**
+- Burada: düzenli olarak **denemeler / küçük projeler / notlar**
+
+## Öne çıkanlar
+> Burayı istersen pinlediğin repolarla uyumlu olacak şekilde güncelle.
+
+- 🔹 **[Proje 1](https://github.com/thelaving?tab=repositories)** — Kısa açıklama (1 satır)
+- 🔹 **[Proje 2](https://github.com/thelaving?tab=repositories)** — Kısa açıklama (1 satır)
+- 🔹 **[Proje 3](https://github.com/thelaving?tab=repositories)** — Kısa açıklama (1 satır)
+
+## İstatistikler
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=thelaving&show_icons=true&hide_title=true&count_private=true&theme=transparent" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelaving&layout=compact&theme=transparent" />
+
+</div>
+
+---
+
+<div align="center">
+
+### İletişim
+Bir şey üretmek, iyileştirmek ya da fikir paylaşmak istersen:  
+**GitHub üzerinden issue/PR** her zaman açık.
+
+</div>
