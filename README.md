@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=thelaving&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=16&descAlignY=52" width="100%" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Merhaba+%F0%9F%91%8B+Ben+thelaving;Full+Stack+Developer;Open+Source+Enthusiast;Her+zaman+yeni+%C5%9Feyler+%C3%B6%C4%9Freniyorum+%F0%9F%9A%80" alt="Typing SVG" />
+
 </div>
 
 ## 👋 Merhaba, Ben **thelaving**
@@ -50,7 +52,7 @@ Tutkulu bir yazılım geliştirici olarak, modern web teknolojileri ve açık ka
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thelaving&theme=radical&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f778ba&currStreakLabel=58a6ff" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=thelaving&theme=radical&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f778ba&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelaving&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="38%" />
 
 </div>
@@ -73,7 +75,11 @@ Tutkulu bir yazılım geliştirici olarak, modern web teknolojileri ve açık ka
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thelaving/thelaving/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thelaving/thelaving/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/thelaving/thelaving/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
