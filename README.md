@@ -13,10 +13,7 @@ Tutkulu bir yazılım geliştirici olarak, modern web teknolojileri ve açık ka
 - 🚀 Şu anda **açık kaynak projeler** üzerinde çalışıyorum
 - 📖 Sürekli **yeni teknolojiler** öğreniyorum
 - 👥 **İşbirliğine** her zaman açığım
-- 📧 Bana **GitHub** üzerinden ulaşabilirsiniz
-- ⚡ Fun fact: **Kahve ☕ + Kod = ❤️**
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=thelaving&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9&ring_color=58a6ff" width="400" />
+- 📧 Bana **Discord** üzerinden ulaşabilirsiniz
 
 <br clear="both" />
 
@@ -58,16 +55,6 @@ Tutkulu bir yazılım geliştirici olarak, modern web teknolojileri ve açık ka
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thelaving&bg_color=0d1117&color=58a6ff&line=bc8cff&point=f778ba&area_color=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
-
----
-
-## 🏆 GitHub Trofeler
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=thelaving&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
-
-</div>
 
 ---
 
