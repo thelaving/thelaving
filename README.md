@@ -1,72 +1,118 @@
-<!-- HEADER BÖLÜMÜ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Thelaving&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Creator%20%7C%20Dreamer&descAlignY=55&descSize=25" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=thelaving&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=16&descAlignY=52" width="100%" />
+
 </div>
 
-<!-- DAKTİLO EFEKTİ VE GİRİŞ -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Merhaba!+Ben+Thelaving;Web+Geliştirme;Açık+Kaynak+Meraklısı;Sürekli+%C3%96ğrenen+Biri" alt="Typing SVG" />
-</div>
+## 👋 Merhaba, Ben **thelaving**
 
-<br>
+Tutkulu bir yazılım geliştirici olarak, modern web teknolojileri ve açık kaynak projelerle ilgileniyorum. Kod yazmayı, yeni teknolojiler öğrenmeyi ve toplulukla bilgi paylaşmayı seviyorum.
 
-<!-- HAKKIMDA TABLOSU (Solda metin, sağda görsel) -->
-<div align="center">
-<h3>👨‍💻 Hakkımda</h3>
-</div>
+- 🚀 Şu anda **açık kaynak projeler** üzerinde çalışıyorum
+- 📖 Sürekli **yeni teknolojiler** öğreniyorum
+- 👥 **İşbirliğine** her zaman açığım
+- 📧 Bana **GitHub** üzerinden ulaşabilirsiniz
+- ⚡ Fun fact: **Kahve ☕ + Kod = ❤️**
 
-- 🔭 Şu anda **kendi projelerim üzerinde** çalışıyorum.
-- 🌱 Sürekli olarak **yeni teknolojiler ve frameworkler** öğreniyorum.
-- 👯 İşbirliği yapmaya ve **Açık Kaynak** projelere katkıda bulunmaya açığım.
-- 💬 Bana **Yazılım, Teknoloji veya Oyunlar** hakkında her şeyi sorabilirsin.
-- ⚡ Eğlenceli gerçek: **Kod yazarken kahve tüketimim %200 artıyor! ☕**
-- 📫 Bana ulaşmak için: **lavingiletisim@gmail.com**
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=thelaving&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9&ring_color=58a6ff" width="400" />
 
----
-<br>
-<div align="center">
-  <h3>🛠️ Teknoloji & Araçlar</h3>
-  
-  <p><b>Diller & Frontend</b></p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind" />
-  </p>
-  
-  <p><b>Backend & Veritabanı</b></p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,py,java,mysql,mongodb" />
-  </p>
-
-  <p><b>Araçlar & Editörler</b></p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-  </p>
-</div>
+<br clear="both" />
 
 ---
 
-<!-- İSTATİSTİKLER BÖLÜMÜ -->
+## 🛠️ Teknoloji & Araçlar
+
+#### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### 🔧 Araçlar
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## 📊 GitHub İstatistikleri
+
 <div align="center">
-  <h3>📊 GitHub İstatistikleri</h3>
-  
-  <!-- Üst satır: Genel Statlar ve En Çok Kullanılan Diller -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thelaving&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelaving&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </div>
-  
-  <br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thelaving&theme=radical&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f778ba&currStreakLabel=58a6ff" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelaving&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="38%" />
+
 </div>
 
-<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thelaving&bg_color=0d1117&color=58a6ff&line=bc8cff&point=f778ba&area_color=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
 
-<!-- ALT BİLGİ / FOOTER -->
+---
+
+## 🏆 GitHub Trofeler
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-  <a href="mailto:lavingiletisim@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 
-  <br><br>
-  <p><i>Profile ziyaretin için teşekkürler! ⭐ bırakmayı unutma.</i></p>
+<img src="https://github-profile-trophy.vercel.app/?username=thelaving&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+## 💡 Günün Sözü
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+---
+
+## 🤝 Benimle İletişime Geçin
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thelaving)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=thelaving&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+⭐ **README'mi beğendiyseniz repolarıma yıldız vermeyi unutmayın!**
+
+Made with ❤️ by **thelaving**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+
 </div>
