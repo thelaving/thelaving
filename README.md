@@ -50,7 +50,6 @@ Tutkulu bir yazılım geliştirici olarak, modern web teknolojileri ve açık ka
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=thelaving&theme=radical&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f778ba&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelaving&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="38%" />
 
 </div>
 
